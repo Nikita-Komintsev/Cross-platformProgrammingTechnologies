@@ -74,7 +74,6 @@ public class Main {
 
 
     private static void zipFile() throws IOException {
-
         FileOutputStream fileOutputStream = new FileOutputStream("arсhive.zip");
         ZipOutputStream zip = new ZipOutputStream(fileOutputStream);
 
