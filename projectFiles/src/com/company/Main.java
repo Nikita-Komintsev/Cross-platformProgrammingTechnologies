@@ -24,7 +24,6 @@ public class Main {
     }
 
     private static void Infornation() {
-
         FileSystemView fsv = FileSystemView.getFileSystemView();
 
         File[] f = File.listRoots();
