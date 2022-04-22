@@ -1,0 +1,17 @@
+{
+  "group": "BSBO-02-19",
+  "students": [
+  	{
+  		"sName": "Ivanov",
+  		"mark": 5
+  	},
+  	{
+  		"sName": "Smirnov",
+  		"mark": 4
+  	},
+  	{
+  		"sName": "Sidorov",
+  		"mark": 2
+  	}
+  ]
+}
