@@ -1,1 +1,1 @@
-# Cross-platformProgrammingTechnologies
+# CrossPlatformProgrammingTechnologies
